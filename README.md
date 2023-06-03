@@ -17,15 +17,8 @@ Classify People as Epilespy and Normal people we cleaning DatasSet Then we Do Fe
   * [Individual Trainee Functinalities](#individual-trainee)
   * [Corporate Trainee Functinalities](#corporate-trainee)
   * [guest Functionalities](#guest)
-- [API References](#api-references)
-  * [Guest (Course) router](#guest-router)
-  * [Instructor router](#instructor-router)
-  * [Trainee router](#trainee-router)
-  * [Admin router](#admin-router)
-  * [Authentication router](#authentication-router)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [Credits](#credits)
+
+
 - [Installation](#installation)
 - [How to use](#How-to-use)
 - [Licence](#Licence)
@@ -35,25 +28,17 @@ Firstly we Cleaned the dataset as we remove Outliers and Filtering the data from
 
 ### Title 
 Classification Epilespy (EEG Signals) 
-Canadian Chamber Of Commerce
 ### Course 
 BSc Thesis under Supervisor Dr.Wael Zakria
 ### Theme
 The theme of the project, is to create Tool instead of Exp Machines as EEG signal device is more Accurate and cheaper compare to Old Machines 
 
 
-### Overview 
-This project followed the Agile Methodology; meaning it was splited into Sprints, with
-each Sprint lasting a set amount of time and a fully functioning version of the project
-with the specified System Requirements should be submitted and evaluated.
-
 ### Objectives
-- Learn how to properly use the Agile Methodology to plan out a project and develop
-the software.
-- Learn the process of following a given set of System Requirements to develop a
-software.
-- Learn to research and master the use of the MERN Stack.
-- Learn how to work together as a team on GitHub.
+- Learn how to Clean Data .
+- Learn the process of Signal Processing  Techniques .
+- Learn to research and master the use of the Feature Extraction Methods .
+- Learn how Train Models and comparing acc from different features with different  classifier .
 
 ## Motivation
 The project is done as a group for a german university course (Advanced Computer lab) and This project is done as a simulation to real company working flow where all team members contribuite together for a final project. which motivated us to put our efforts on a project where we can learn new technologies along side with implementing them on a real application .We make an online courses website to encourage people
