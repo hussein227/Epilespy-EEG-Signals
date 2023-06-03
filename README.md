@@ -28,8 +28,8 @@ Firstly we Cleaned the dataset as we remove Outliers and Filtering the data from
 ![Example Image](example.png)
 ![Example Image](plpl.png)
 ![Example Image](adad.png)
-![Example Image](example.png)
-![Example Image](example.png)
+![Example Image](30.05.2023_16.56.30_REC.png)
+![Example Image](30.05.2023_16.56.30_REC.png)
 
 
 
