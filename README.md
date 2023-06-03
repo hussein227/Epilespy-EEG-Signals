@@ -31,8 +31,10 @@ Firstly we Cleaned the dataset as we remove Outliers and Filtering the data from
 ### Here we use mean , variance and z-score as feature Extraction 
 ![Example Image](plpl.png)
 ### Here we use PsD as feature Extraction 
-![Example Image](adad.png)
 ![Example Image](klklkl.png)
+
+![Example Image](adad.png)
+
 
 ![Example Image](30.05.2023_16.56.30_REC.png)
 ![Example Image](30.05.2023_16.56.30_REC.png)
