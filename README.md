@@ -31,16 +31,15 @@ Classify People as Epilespy and Normal people we cleaning DatasSet Then we Do Fe
 - [Licence](#Licence)
 
 ## Project Description
+Firstly we Cleaned the dataset as we remove Outliers and Filtering the data from Non-EEG Signals and we started using many Algorithms AS Wavelet , Statiscal ,PSD  and Entropy then we start modeling as we create label vector to use with training and test phase in modeling and compare each of them To others then we use AUC-ROC Curve AS It allows you to visually assess the trade-off between the true positive rate and false positive rate, helping to understand the classifier's effectiveness at different decision thresholds
+
 ### Title 
 Classification Epilespy (EEG Signals) 
 Canadian Chamber Of Commerce
 ### Course 
 BSc Thesis under Supervisor Dr.Wael Zakria
 ### Theme
-The theme of the project, is to create a complete Online Learning System. An Online
-Learning System is a web application through which individuals can attend pre-recorded
-courses online. Existing web applications include but are not limited to Coursera, Udemy,
-LinkedIn Learning, Great Learning and Udacity.
+The theme of the project, is to create Tool instead of Exp Machines as EEG signal device is more Accurate and cheaper compare to Old Machines 
 
 
 ### Overview 
