@@ -32,10 +32,10 @@ Classify People as Epilespy and Normal people we cleaning DatasSet Then we Do Fe
 
 ## Project Description
 ### Title 
+Classification Epilespy (EEG Signals) 
 Canadian Chamber Of Commerce
 ### Course 
-Advanced Computer Lab (CSEN 704), Winter 2022
-
+BSc Thesis under Supervisor Dr.Wael Zakria
 ### Theme
 The theme of the project, is to create a complete Online Learning System. An Online
 Learning System is a web application through which individuals can attend pre-recorded
@@ -63,37 +63,7 @@ to develop their skills and make this process easy by learning from home.
 The project is formatted using `prettier` also The project follows the  [ MVC ](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)design pattern ,MVC is a software architectural pattern commonly used for developing user interfaces that divide the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user , So the Files in the backend was divided into the M (models) where the schema of the models exist which represent the core of the database , the C (controller) where the functions needed for the routes exists and the V (views) the view in MERN stack is represented by the react frontend server. Also the routes in our project was abstracted from the controller function as shown in [ API References](#api-references)
 
 ## Tools and Frameworks
-![MERN_STACK](https://miro.medium.com/max/1400/1*FVtCyRdJ6KOr4YswTtwMeA.jpeg)
-
-### What is the MERN Stack?
-MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack.
-
-- MongoDB - document database
-- Express(.js) - Node.js web framework
-- React(.js) - a client-side JavaScript framework
-- Node(.js) - the premier JavaScript web server
-
-Express and Node make up the middle (application) tier. Express.js is a server-side web framework, and Node.js the popular and powerful JavaScript server platform. Regardless of which variant you choose, ME(RVA)N is the ideal approach to working with JavaScript and JSON, all the way through.
-
-### How does the MERN stack work?
-The MERN architecture allows you to easily construct a 3-tier architecture (frontend, backend, database) entirely using JavaScript and JSON.
-
-![MERN_ARCH](https://webimages.mongodb.com/_com_assets/cms/mern-stack-b9q1kbudz0.png?auto=format%2Ccompress)
-
-#### - React.js Front End
-The top tier of the MERN stack is React.js, the declarative JavaScript framework for creating dynamic client-side applications in HTML. React lets you build up complex interfaces through simple Components, connect them to data on your backend server, and render them as HTML.
-
-React’s strong suit is handling stateful, data-driven interfaces with minimal code and minimal pain, and it has all the bells and whistles you’d expect from a modern web framework: great support for forms, error handling, events, lists, and more.
-
-#### - Express.js and Node.js Server Tier
-The next level down is the Express.js server-side framework, running inside a Node.js server. Express.js bills itself as a “fast, unopinionated, minimalist web framework for Node.js,” and that is indeed exactly what it is. Express.js has powerful models for URL routing (matching an incoming URL with a server function), and handling HTTP requests and responses.
-
-By making XML HTTP Requests (XHRs) or GETs or POSTs from your React.js front-end, you can connect to Express.js functions that power your application. Those functions in turn use MongoDB’s Node.js drivers, either via callbacks for using Promises, to access and update data in your MongoDB database.
-
-#### - MongoDB Database Tier
-If your application stores any data (user profiles, content, comments, uploads, events, etc.), then you’re going to want a database that’s just as easy to work with as React, Express, and Node.
-
-That’s where MongoDB comes in: JSON documents created in your React.js front end can be sent to the Express.js server, where they can be processed and (assuming they’re valid) stored directly in MongoDB for later retrieval. Again, if you’re building in the cloud, you’ll want to look at Atlas. If you’re looking to set up your own MERN stack, read on!
+Google Colab with MNE Library 
 
 ## Build Status 
  - The project currently under development and there are some styling problems to be fixed 
