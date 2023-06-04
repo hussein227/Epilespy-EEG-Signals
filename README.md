@@ -32,12 +32,27 @@ Firstly we Cleaned the dataset as we remove Outliers and Filtering the data from
 ![Example Image](plpl.png)
 ### Here we use Wavelets as feature Extraction 
 ![Example Image](klklkl.png)
+Here Level 1 Wavelet Decomposition:
+
+Apply a low-pass filter (LPF) and a high-pass filter (HPF) to the signal.
+The LPF extracts the low-frequency components, and the HPF extracts the high-frequency components.
+After filtering, we obtain the following:
+Low-frequency components (approximation coefficients A1): [6.0, 7.0, 5.0, 2.5].
+High-frequency components (detail coefficients D1): [-0.5, 1.5, 0.5, -0.5].
+The approximation coefficients capture the overall trend or low-frequency components, while the detail coefficients capture the high-frequency or transient features of the signal.
+Level 2 Wavelet Decomposition:
+
+Apply the same process to the approximation coefficients (A1) obtained from Level 1.
+Again, apply an LPF and an HPF to the approximation coefficients.
+After filtering and downsampling, we obtain the following:
+Approximation coefficients (A2): [6.5, 1.0].
+Detail coefficients (D2): [-0.5, 0.0].
+The approximation coefficients at this level capture the overall trend at a finer scale, while the detail coefficients capture the high-frequency details.
+![Example Image](30.05.2023_16.56.30_REC.png)
 
 ![Example Image](adad.png)
 
 
-![Example Image](30.05.2023_16.56.30_REC.png)
-![Example Image](30.05.2023_16.56.30_REC.png)
 
 
 
