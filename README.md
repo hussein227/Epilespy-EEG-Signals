@@ -7,17 +7,8 @@ Classify People as Epilespy and Normal people we cleaning DatasSet Then we Do Fe
 ## Table of Contents
 - [Project Description](#project-description)
 
-- [Code Styles](#code-styles)
 - [Tools and Frameworks](#tools-and-frameworks)
-- [Build Status](#build-status)
-- [Code Examples](#code-examples)
-- [Features](#features)
-  * [Admin Functionalities](#administrator)
-  * [Instructor Functinalities](#instructor)
-  * [Individual Trainee Functinalities](#individual-trainee)
-  * [Corporate Trainee Functinalities](#corporate-trainee)
-  * [guest Functionalities](#guest)
-
+- [Code Examples](#code-examples
 
 - [Installation](#installation)
 - [How to use](#How-to-use)
