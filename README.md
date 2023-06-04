@@ -93,7 +93,26 @@ The theme of the project, is to create Tool instead of Expensive Machines as EEG
 - Learn how Train Models and comparing acc from different features with different  classifier .
 
 ## Tools and Frameworks
-Google Colab with MNE Library 
+Google Colab with MNE Library :MNe (assuming it's a typo for NumPy library) and scikit-learn (often abbreviated as sklearn) are popular tools and frameworks in the field of machine learning and data analysis. Here's a brief overview of each tool and how you can use them, including cross-validation and data visualization with matplotlib.
+
+NumPy (MNe):
+
+NumPy is a fundamental package in Python for scientific computing and numerical operations.
+It provides support for efficient array operations and mathematical functions.
+To install NumPy, you can use the following command: pip install numpy
+You can import NumPy in your Python code using: import numpy as np
+NumPy documentation: https://numpy.org/doc/
+scikit-learn (sklearn):
+
+scikit-learn is a powerful machine learning library in Python, offering a wide range of tools and algorithms for data preprocessing, model training, evaluation, and more.
+It provides easy-to-use interfaces to implement various machine learning techniques.
+To install scikit-learn, you can use the following command: pip install scikit-learn
+You can import scikit-learn in your Python code using: import sklearn
+scikit-learn documentation: https://scikit-learn.org/stable/
+Cross-Validation:
+
+Cross-validation is a technique used to evaluate machine learning models by dividing the available data into subsets for training and testing.
+scikit-learn provides a module called model_selection that includes several methods for cross-validation, such as KFold, StratifiedKFold, train_test_split, etc.
 
 ## Build Status 
  - The project currently under development and there are some styling problems to be fixed 
