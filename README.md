@@ -6,7 +6,7 @@ Classify People as Epilespy and Normal people we cleaning DatasSet Then we Do Fe
 ```
 ## Table of Contents
 - [Project Description](#project-description)
-- [Motivation](#motivation)
+
 - [Code Styles](#code-styles)
 - [Tools and Frameworks](#tools-and-frameworks)
 - [Build Status](#build-status)
@@ -83,7 +83,7 @@ Classification Epilespy (EEG Signals)
 ### Course 
 BSc Thesis under Supervisor Dr.Wael Zakria
 ### Theme
-The theme of the project, is to create Tool instead of Exp Machines as EEG signal device is more Accurate and cheaper compare to Old Machines 
+The theme of the project, is to create Tool instead of Expensive Machines as EEG signal device is more Accurate and cheaper compare to Old Machines 
 
 
 ### Objectives
@@ -91,12 +91,6 @@ The theme of the project, is to create Tool instead of Exp Machines as EEG signa
 - Learn the process of Signal Processing  Techniques .
 - Learn to research and master the use of the Feature Extraction Methods .
 - Learn how Train Models and comparing acc from different features with different  classifier .
-
-## Motivation
-The project is done as a group for a german university course (Advanced Computer lab) and This project is done as a simulation to real company working flow where all team members contribuite together for a final project. which motivated us to put our efforts on a project where we can learn new technologies along side with implementing them on a real application .We make an online courses website to encourage people
-to develop their skills and make this process easy by learning from home. 
-## Code Styles
-The project is formatted using `prettier` also The project follows the  [ MVC ](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)design pattern ,MVC is a software architectural pattern commonly used for developing user interfaces that divide the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user , So the Files in the backend was divided into the M (models) where the schema of the models exist which represent the core of the database , the C (controller) where the functions needed for the routes exists and the V (views) the view in MERN stack is represented by the react frontend server. Also the routes in our project was abstracted from the controller function as shown in [ API References](#api-references)
 
 ## Tools and Frameworks
 Google Colab with MNE Library 
