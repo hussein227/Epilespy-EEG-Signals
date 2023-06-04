@@ -60,8 +60,17 @@ An AUC-ROC curve is a graphical representation of the performance of a binary cl
 An AUC of 71.80% indicates that the Random Forest classifier has achieved a reasonable level of discrimination between the positive and negative samples. The higher the AUC, the better the classifier is at distinguishing between the two classes.
 
 Compared to an AUC of 50.50% (random or equivalent to chance), an AUC of 71.80% indicates that the Random Forest classifier is performing significantly better. It suggests that the classifier is able to capture meaningful patterns and make better predictions compared to random chance.
+
+
+
 ![Hello ](haha.png)
 
+
+An AUC-ROC curve is a graphical representation of the performance of a binary classifier, such as XGBoost, at different classification thresholds. The AUC (Area Under the Curve) represents the performance of the classifier in terms of the trade-off between its true positive rate (TPR) and false positive rate (FPR).
+
+An AUC of 73% indicates that the XGBoost classifier has achieved a reasonably good level of discrimination between the positive and negative samples. The higher the AUC, the better the classifier is at distinguishing between the two classes.
+
+Compared to an AUC of 50.50% (random or equivalent to chance), an AUC of 73% indicates that the XGBoost classifier is performing significantly better and has learned meaningful patterns from the data.
 ![Example Image](huhu.png)
 
 
