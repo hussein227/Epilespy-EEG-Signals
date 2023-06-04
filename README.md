@@ -50,6 +50,10 @@ Detail coefficients (D2): [-0.5, 0.0].
 The approximation coefficients at this level capture the overall trend at a finer scale, while the detail coefficients capture the high-frequency details.
 ![Example Image](30.05.2023_16.56.30_REC.png)
 
+An AUC-ROC curve is a graphical representation of the performance of a binary classifier, such as SVM (Support Vector Machine), at different classification thresholds. The AUC (Area Under the Curve) represents the performance of the classifier in terms of the trade-off between its true positive rate (TPR) and false positive rate (FPR).
+
+An AUC of 50.50% indicates that the classifier's performance is essentially random or equivalent to chance. In other words, the classifier is not able to discriminate between the positive and negative samples effectively. An AUC of 0.5 corresponds to a classifier that is no better than flipping a coin to make predictions.
+
 ![Example Image](adad.png)
 
 
